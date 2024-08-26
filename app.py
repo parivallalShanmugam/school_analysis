@@ -1,8 +1,14 @@
 import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
+try:
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+except ImportError:
+    st.error("Some required libraries are not installed. Please run 'pip install -r requirements.txt' to install them.")
+    st.stop()
+
+# Rest of your code remains the same
 # Load data
 @st.cache_data
 def load_data():
@@ -16,6 +22,7 @@ df = load_data()
 
 # Title
 st.title('Teachers Report Analysis')
+
 
 # Basic Information
 st.header('1. Basic Information')
