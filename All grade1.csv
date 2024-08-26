@@ -1,0 +1,643 @@
+Grade,Medium,Subject,DOMAIN,Question No,Answered,Wrong Answered,Un Answered,Answered %,Wrong Answered %,Un Answered %
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules for tense,Q1,27,6,0,0.0273,0.0061,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules for preposition,Q2,32,1,0,0.0323,0.001,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules for conjunction,Q3,25,8,0,0.0253,0.0081,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q4,27,6,0,0.0273,0.0061,0
+Grade-VI,Tamil,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q5,31,2,0,0.0313,0.002,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q6,16,17,0,0.0162,0.0172,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules for conjunctions,Q7,18,15,0,0.0182,0.0152,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q8,12,21,0,0.0121,0.0212,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q9,31,2,0,0.0313,0.002,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q10,26,7,0,0.0263,0.0071,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q11,23,10,0,0.0232,0.0101,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q12,26,7,0,0.0263,0.0071,0
+Grade-VI,Tamil,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q13,24,9,0,0.0242,0.0091,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q14,24,9,0,0.0242,0.0091,0
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q15,23,10,0,0.0232,0.0101,0
+Grade-VI,Tamil,Tamil,Identifies the characters of the story,Q16,28,4,1,0.0283,0.004,0.001
+Grade-VI,Tamil,Tamil,Applies the correct grammar rules,Q17,25,7,1,0.0253,0.0071,0.001
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q18,24,8,1,0.0242,0.0081,0.001
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q19,29,3,1,0.0293,0.003,0.001
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q20,28,4,1,0.0283,0.004,0.001
+Grade-VI,Tamil,Tamil,Identifies the characters of the story,Q21,27,5,1,0.0273,0.0051,0.001
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q22,18,15,0,0.0182,0.0152,0
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q23,28,5,0,0.0283,0.0051,0
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q24,32,1,0,0.0323,0.001,0
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q25,30,3,0,0.0303,0.003,0
+Grade-VI,Tamil,Tamil,Identifies the characters of the story,Q26,15,18,0,0.0152,0.0182,0
+Grade-VI,Tamil,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q27,29,4,0,0.0293,0.004,0
+Grade-VI,Tamil,Tamil,Identifies the characters of the story,Q28,28,5,0,0.0283,0.0051,0
+Grade-VI,Tamil,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q29,21,12,0,0.0212,0.0121,0
+Grade-VI,Tamil,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q30,30,3,0,0.0303,0.003,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q1,7,27,0,0.0071,0.0273,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q2,14,20,0,0.0141,0.0202,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q3,7,25,2,0.0071,0.0253,0.002
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q4,4,30,0,0.004,0.0303,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q5,13,21,0,0.0131,0.0212,0
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q6,6,28,0,0.0061,0.0283,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for verb and adverbs,Q7,11,23,0,0.0111,0.0232,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for nouns and pronouns,Q8,14,19,0,0.0141,0.0192,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for adjectives,Q9,6,28,0,0.0061,0.0283,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for adjectives,Q10,11,23,0,0.0111,0.0232,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for adjectives,Q11,7,27,0,0.0071,0.0273,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for verb and adverbs,Q12,10,24,0,0.0101,0.0242,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for conjunctions,Q13,10,24,0,0.0101,0.0242,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q14,19,15,0,0.0192,0.0152,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q15,12,22,0,0.0121,0.0222,0
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q16,14,18,2,0.0141,0.0182,0.002
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q17,9,23,2,0.0091,0.0232,0.002
+Grade-VI,Tamil,English,Applies the correct grammar rules for preposition,Q18,2,29,3,0.002,0.0293,0.003
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q19,6,26,2,0.0061,0.0263,0.002
+Grade-VI,Tamil,English,Reads to seek information from tables,Q20,0,33,2,0,0.0333,0.002
+Grade-VI,Tamil,English,Reads to seek information from tables,Q21,4,28,2,0.004,0.0283,0.002
+Grade-VI,Tamil,English,Applies the correct grammar rules,Q22,8,24,2,0.0081,0.0242,0.002
+Grade-VI,Tamil,English,Applies the correct grammar rules,Q23,10,24,0,0.0101,0.0242,0
+Grade-VI,Tamil,English,Applies the correct grammar rules,Q24,12,22,0,0.0121,0.0222,0
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q25,6,28,0,0.0061,0.0283,0
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q26,11,23,0,0.0111,0.0232,0
+Grade-VI,Tamil,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q27,7,27,0,0.0071,0.0273,0
+Grade-VI,Tamil,English,Applies the correct grammar rules for prefix,Q28,5,29,0,0.0051,0.0293,0
+Grade-VI,Tamil,English,Applies the correct grammar rules,Q29,8,26,0,0.0081,0.0263,0
+Grade-VI,Tamil,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q30,2,23,9,0.002,0.0232,0.0091
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q3,15,19,0,0.025,0.031,0
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q4,17,17,0,0.028,0.028,0
+Grade-VI,Tamil,Math,"Identify various 3D objects like sphere, cube, cuboid, cylinder, cone from the surroundings",Q5,27,7,0,0.044,0.011,0
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q6,5,29,0,0.008,0.047,0
+Grade-VI,Tamil,Math,Find out the perimeter and area of rectangular objects from the surroundings,Q7,9,25,0,0.015,0.041,0
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q8,8,25,1,0.013,0.041,0.002
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q12,14,19,1,0.023,0.031,0.002
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q13,10,24,0,0.016,0.039,0
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q15,11,22,1,0.018,0.036,0.002
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q16,7,26,1,0.011,0.042,0.002
+Grade-VI,Tamil,Math,"Identify various elements like sides angles vertices diagonals of triangles , quadrilateral",Q17,24,8,2,0.039,0.013,0.003
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q18,8,24,2,0.013,0.039,0.003
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q19,17,15,2,0.028,0.025,0.003
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q22,10,24,0,0.016,0.039,0
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q23,10,23,1,0.016,0.038,0.002
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q26,10,20,4,0.016,0.033,0.007
+Grade-VI,Tamil,Math,"Identify various elements like sides angles vertices diagonals of triangles , quadrilateral",Q28,17,16,1,0.028,0.026,0.002
+Grade-VI,Tamil,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q29,1,31,2,0.002,0.051,0.003
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q1,10,24,0,0.012,0.028,0
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q2,1,33,0,0.001,0.039,0
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q3,13,21,0,0.015,0.025,0
+Grade-VI,Tamil,Science,relate processes and phenomena with causes,Q5,17,17,0,0.02,0.02,0
+Grade-VI,Tamil,Science,classify materials and organisms based on properties or characteristics,Q6,17,17,0,0.02,0.02,0
+Grade-VI,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q7,10,24,0,0.012,0.028,0
+Grade-VI,Tamil,Science,relate processes and phenomena with causes,Q8,22,12,0,0.026,0.014,0
+Grade-VI,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q11,13,21,0,0.015,0.025,0
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q12,9,24,1,0.011,0.028,0.001
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q13,5,28,1,0.006,0.033,0.001
+Grade-VI,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q14,9,22,2,0.011,0.026,0.002
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q16,6,20,7,0.007,0.024,0.008
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q17,11,17,5,0.013,0.02,0.006
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q18,12,16,5,0.014,0.019,0.006
+Grade-VI,Tamil,Science,classify materials and organisms based on properties or characteristics,Q19,7,21,6,0.008,0.025,0.007
+Grade-VI,Tamil,Science,classify materials and organisms based on properties or characteristics,Q20,12,14,8,0.014,0.016,0.009
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q21,13,15,6,0.015,0.018,0.007
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q22,22,6,6,0.026,0.007,0.007
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q23,1,28,5,0.001,0.033,0.006
+Grade-VI,Tamil,Science,relate processes and phenomena with causes,Q24,8,22,3,0.009,0.026,0.004
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q25,23,8,2,0.027,0.009,0.002
+Grade-VI,Tamil,Science,classify materials and organisms based on properties or characteristics,Q26,18,12,3,0.021,0.014,0.004
+Grade-VI,Tamil,Science,classify materials and organisms based on properties or characteristics,Q27,14,17,3,0.016,0.02,0.004
+Grade-VI,Tamil,Science,apply learning of scientific concepts in day to day life,Q28,13,18,3,0.015,0.021,0.004
+Grade-VI,Tamil,Science,identify materials and organisms on the basis of observable features,Q30,5,25,4,0.006,0.029,0.005
+Grade-VI,English,Tamil,Applies the correct grammar rules for tense,Q1,6,5,1,0.0167,0.0139,0.0028
+Grade-VI,English,Tamil,Applies the correct grammar rules for preposition,Q2,11,1,0,0.0306,0.0028,0
+Grade-VI,English,Tamil,Applies the correct grammar rules for conjunction,Q3,8,4,0,0.0222,0.0111,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q4,7,5,0,0.0194,0.0139,0
+Grade-VI,English,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q5,10,2,0,0.0278,0.0056,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q6,4,8,0,0.0111,0.0222,0
+Grade-VI,English,Tamil,Applies the correct grammar rules for conjunctions,Q7,4,8,0,0.0111,0.0222,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q8,1,11,0,0.0028,0.0306,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q9,7,5,0,0.0194,0.0139,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q10,10,2,0,0.0278,0.0056,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q11,5,7,0,0.0139,0.0194,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q12,3,9,0,0.0083,0.025,0
+Grade-VI,English,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q13,8,4,0,0.0222,0.0111,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q14,2,10,0,0.0056,0.0278,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q15,9,3,0,0.025,0.0083,0
+Grade-VI,English,Tamil,Identifies the characters of the story,Q16,8,4,0,0.0222,0.0111,0
+Grade-VI,English,Tamil,Applies the correct grammar rules,Q17,4,8,0,0.0111,0.0222,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q18,2,10,0,0.0056,0.0278,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q19,9,3,0,0.025,0.0083,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q20,7,5,0,0.0194,0.0139,0
+Grade-VI,English,Tamil,Identifies the characters of the story,Q21,5,7,0,0.0139,0.0194,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q22,3,9,0,0.0083,0.025,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q23,6,6,0,0.0167,0.0167,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q24,6,6,0,0.0167,0.0167,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q25,5,7,0,0.0139,0.0194,0
+Grade-VI,English,Tamil,Identifies the characters of the story,Q26,5,7,0,0.0139,0.0194,0
+Grade-VI,English,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q27,6,6,0,0.0167,0.0167,0
+Grade-VI,English,Tamil,Identifies the characters of the story,Q28,5,7,0,0.0139,0.0194,0
+Grade-VI,English,Tamil,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q29,3,9,0,0.0083,0.025,0
+Grade-VI,English,Tamil,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q30,5,7,0,0.0139,0.0194,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q1,4,8,0,0.0111,0.0222,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q2,7,5,0,0.0194,0.0139,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q3,6,5,1,0.0167,0.0139,0.0028
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q4,5,7,0,0.0139,0.0194,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q5,5,7,0,0.0139,0.0194,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q6,6,6,0,0.0167,0.0167,0
+Grade-VI,English,English,Applies the correct grammar rules for verb and adverbs,Q7,3,9,0,0.0083,0.025,0
+Grade-VI,English,English,Applies the correct grammar rules for nouns and pronouns,Q8,11,1,0,0.0306,0.0028,0
+Grade-VI,English,English,Applies the correct grammar rules for adjectives,Q9,8,4,0,0.0222,0.0111,0
+Grade-VI,English,English,Applies the correct grammar rules for adjectives,Q10,8,4,0,0.0222,0.0111,0
+Grade-VI,English,English,Applies the correct grammar rules for adjectives,Q11,7,4,1,0.0194,0.0111,0.0028
+Grade-VI,English,English,Applies the correct grammar rules for verb and adverbs,Q12,6,6,0,0.0167,0.0167,0
+Grade-VI,English,English,Applies the correct grammar rules for conjunctions,Q13,7,5,0,0.0194,0.0139,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q14,10,1,1,0.0278,0.0028,0.0028
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q15,8,4,0,0.0222,0.0111,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q16,6,6,0,0.0167,0.0167,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q17,7,5,0,0.0194,0.0139,0
+Grade-VI,English,English,Applies the correct grammar rules for preposition,Q18,2,10,0,0.0056,0.0278,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q19,4,8,0,0.0111,0.0222,0
+Grade-VI,English,English,Reads to seek information from tables,Q20,0,13,0,0,0.0361,0
+Grade-VI,English,English,Reads to seek information from tables,Q21,9,3,0,0.025,0.0083,0
+Grade-VI,English,English,Applies the correct grammar rules,Q22,0,13,0,0,0.0361,0
+Grade-VI,English,English,Applies the correct grammar rules,Q23,4,8,0,0.0111,0.0222,0
+Grade-VI,English,English,Applies the correct grammar rules,Q24,9,3,0,0.025,0.0083,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q25,7,5,0,0.0194,0.0139,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q26,7,5,0,0.0194,0.0139,0
+Grade-VI,English,English,Discovers the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q27,5,7,0,0.0139,0.0194,0
+Grade-VI,English,English,Applies the correct grammar rules for prefix,Q28,6,6,0,0.0167,0.0167,0
+Grade-VI,English,English,Applies the correct grammar rules,Q29,2,10,0,0.0056,0.0278,0
+Grade-VI,English,English,"Reads a variety of texts and identifies the main ideas, characters, sequence of ideas and events",Q30,2,10,0,0.0056,0.0278,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q1,9,3,0,0.012,0.004,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q2,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q3,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,relate processes and phenomena with causes,Q5,4,8,0,0.005,0.011,0
+Grade-VI,English,Science,classify materials and organisms based on properties or characteristics,Q6,7,5,0,0.009,0.007,0
+Grade-VI,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q7,5,7,0,0.007,0.009,0
+Grade-VI,English,Science,relate processes and phenomena with causes,Q8,8,4,0,0.011,0.005,0
+Grade-VI,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q11,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q12,2,10,0,0.003,0.013,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q13,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q14,4,8,0,0.005,0.011,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q16,7,5,0,0.009,0.007,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q17,4,8,0,0.005,0.011,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q18,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,classify materials and organisms based on properties or characteristics,Q19,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,classify materials and organisms based on properties or characteristics,Q20,6,6,0,0.008,0.008,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q21,2,10,0,0.003,0.013,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q22,11,1,0,0.015,0.001,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q23,0,12,0,0,0.016,0
+Grade-VI,English,Science,relate processes and phenomena with causes,Q24,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q25,3,9,0,0.004,0.012,0
+Grade-VI,English,Science,classify materials and organisms based on properties or characteristics,Q26,7,5,0,0.009,0.007,0
+Grade-VI,English,Science,classify materials and organisms based on properties or characteristics,Q27,6,6,0,0.008,0.008,0
+Grade-VI,English,Science,apply learning of scientific concepts in day to day life,Q28,11,1,0,0.015,0.001,0
+Grade-VI,English,Science,identify materials and organisms on the basis of observable features,Q30,6,6,0,0.008,0.008,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q3,8,4,0,0.037,0.019,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q4,7,4,0,0.032,0.019,0
+Grade-VI,English,Math,"Identify various 3D objects like sphere, cube, cuboid, cylinder, cone from the surroundings",Q5,10,2,0,0.046,0.009,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q6,5,7,0,0.023,0.032,0
+Grade-VI,English,Math,Find out the perimeter and area of rectangular objects from the surroundings,Q7,5,7,0,0.023,0.032,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q8,1,11,0,0.005,0.051,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q12,7,5,0,0.032,0.023,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q13,8,4,0,0.037,0.019,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q15,7,5,0,0.032,0.023,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q16,3,9,0,0.014,0.042,0
+Grade-VI,English,Math,"Identify various elements like sides angles vertices diagonals of triangles , quadrilateral",Q17,10,2,0,0.046,0.009,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q18,3,8,0,0.014,0.037,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q19,8,4,0,0.037,0.019,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q22,6,6,0,0.028,0.028,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q23,3,9,0,0.014,0.042,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q26,2,10,0,0.009,0.046,0
+Grade-VI,English,Math,"Identify various elements like sides angles vertices diagonals of triangles , quadrilateral",Q28,7,5,0,0.032,0.023,0
+Grade-VI,English,Math,Solve problems involving large numbers by applying appropriate operations - addition subtraction multiplication and division,Q29,0,12,0,0,0.056,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules - Tense,Q1,31,8,0,0.026,0.007,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules - Tense,Q2,26,13,0,0.022,0.011,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q3,30,9,0,0.026,0.008,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules - Preposition,Q4,30,9,0,0.026,0.008,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q5,15,24,0,0.013,0.021,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules - Conjunctions,Q6,18,21,0,0.015,0.018,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q7,28,10,1,0.024,0.009,0.001
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q8,9,30,0,0.008,0.026,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q9,17,22,0,0.015,0.019,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q10,34,5,0,0.029,0.004,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules - Tense,Q11,36,3,0,0.031,0.003,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q12,38,1,0,0.032,0.001,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q13,24,15,0,0.021,0.013,0
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q14,31,7,1,0.026,0.006,0.001
+Grade-VII,Tamil,Tamil,Applied the correct grammar rules,Q15,19,20,0,0.016,0.017,0
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q16,21,18,0,0.018,0.015,0
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q17,13,25,1,0.011,0.021,0.001
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q18,15,23,1,0.013,0.02,0.001
+Grade-VII,Tamil,Tamil,Discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q19,9,29,1,0.008,0.025,0.001
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q20,24,12,3,0.021,0.01,0.003
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q21,24,14,1,0.021,0.012,0.001
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q22,22,16,1,0.019,0.014,0.001
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q23,25,13,1,0.021,0.011,0.001
+Grade-VII,Tamil,Tamil,Identify the main characters or the major plot from the text given,Q24,16,21,2,0.014,0.018,0.002
+Grade-VII,Tamil,Tamil,Identify the main characters or the major plot from the text given,Q25,6,31,2,0.005,0.026,0.002
+Grade-VII,Tamil,Tamil,Identify the main characters or the major plot from the text given,Q26,30,7,2,0.026,0.006,0.002
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q27,35,2,2,0.03,0.002,0.002
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q28,35,2,2,0.03,0.002,0.002
+Grade-VII,Tamil,Tamil,Discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q29,27,10,2,0.023,0.009,0.002
+Grade-VII,Tamil,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q30,17,20,2,0.015,0.017,0.002
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q1,17,22,0,0.015,0.019,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q2,16,23,0,0.014,0.02,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q3,13,26,0,0.011,0.022,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q4,15,24,0,0.013,0.021,0
+Grade-VII,Tamil,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q5,9,30,0,0.008,0.026,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q6,20,19,0,0.017,0.016,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q7,17,22,0,0.015,0.019,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q8,12,27,0,0.01,0.023,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q9,12,27,0,0.01,0.023,0
+Grade-VII,Tamil,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q10,7,32,0,0.006,0.027,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q11,18,21,0,0.015,0.018,0
+Grade-VII,Tamil,English,identify the main characters from the text given,Q12,15,24,0,0.013,0.021,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q13,14,25,0,0.012,0.021,0
+Grade-VII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q14,8,31,0,0.007,0.026,0
+Grade-VII,Tamil,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q15,17,21,1,0.015,0.018,0.001
+Grade-VII,Tamil,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q16,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,English,identify the main characters from the text given,Q17,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Adjective,Q18,5,34,0,0.004,0.029,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Tense,Q19,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Punctuations,Q20,8,31,0,0.007,0.026,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Noun and Pronoun,Q21,12,27,0,0.01,0.023,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Noun and Pronoun,Q22,11,28,0,0.009,0.024,0
+Grade-VII,Tamil,English,Applied the correct grammar rules,Q23,19,20,0,0.016,0.017,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Verb and Adverb,Q24,9,30,0,0.008,0.026,0
+Grade-VII,Tamil,English,Applied the correct grammar rules,Q25,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,English,Applied the correct grammar rules,Q26,12,26,0,0.01,0.022,0
+Grade-VII,Tamil,English,Applied the correct grammar rules,Q27,6,33,0,0.005,0.028,0
+Grade-VII,Tamil,English,Applied the correct grammar rules,Q28,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Noun and Pronoun,Q29,15,24,0,0.013,0.021,0
+Grade-VII,Tamil,English,Applied the correct grammar rules - Tense,Q30,20,19,0,0.017,0.016,0
+Grade-VII,Tamil,Math,Performs division on fractions and decimals,Q5,15,24,0,0.013,0.021,0
+Grade-VII,Tamil,Math,Performs division on fractions and decimals,Q6,10,29,0,0.009,0.025,0
+Grade-VII,Tamil,Math,"Find mean, median and mode in the given data set",Q9,23,16,0,0.02,0.014,0
+Grade-VII,Tamil,Math,"Find mean, median and mode in the given data set",Q10,7,31,1,0.006,0.026,0.001
+Grade-VII,Tamil,Math,"Find mean, median and mode in the given data set",Q11,18,21,0,0.015,0.018,0
+Grade-VII,Tamil,Math,"Find mean, median and mode in the given data set",Q13,11,28,0,0.009,0.024,0
+Grade-VII,Tamil,Math,Apply the knowledge of profit and loss and simple interest problems,Q14,22,17,0,0.019,0.015,0
+Grade-VII,Tamil,Math,Apply the knowledge of profit and loss and simple interest problems,Q15,30,9,0,0.026,0.008,0
+Grade-VII,Tamil,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q16,14,24,1,0.012,0.021,0.001
+Grade-VII,Tamil,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q17,32,7,0,0.027,0.006,0
+Grade-VII,Tamil,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q18,22,17,0,0.019,0.015,0
+Grade-VII,Tamil,Math,Interpret data from the given table,Q26,20,16,3,0.017,0.014,0.003
+Grade-VII,Tamil,Math,Interpret data from the given table,Q27,18,18,3,0.015,0.015,0.003
+Grade-VII,Tamil,Math,Interpret data from the given table,Q28,20,17,2,0.017,0.015,0.002
+Grade-VII,Tamil,Math,Interpret data from the given table,Q29,12,25,2,0.01,0.021,0.002
+Grade-VII,Tamil,Math,Interpret data from the given table,Q30,13,23,2,0.011,0.02,0.002
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q3,15,20,3,0.017,0.023,0.003
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q4,2,36,0,0.002,0.041,0
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q5,10,27,1,0.011,0.031,0.001
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q6,10,24,4,0.011,0.027,0.005
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q7,10,28,0,0.011,0.032,0
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q9,11,27,0,0.013,0.031,0
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q11,26,11,1,0.03,0.013,0.001
+Grade-VII,Tamil,Science,apply learning of scientific concepts in day to day life,Q13,15,23,0,0.017,0.026,0
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q15,6,31,1,0.007,0.035,0.001
+Grade-VII,Tamil,Science,classify materials and organisms based on properties or characteristics,Q16,13,24,1,0.015,0.027,0.001
+Grade-VII,Tamil,Science,relate processes and phenomena with causes,Q17,13,25,0,0.015,0.029,0
+Grade-VII,Tamil,Science,apply learning of scientific concepts in day to day life,Q18,13,22,3,0.015,0.025,0.003
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q19,12,26,0,0.014,0.03,0
+Grade-VII,Tamil,Science,apply learning of scientific concepts in day to day life,Q20,15,23,0,0.017,0.026,0
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q21,10,26,2,0.011,0.03,0.002
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q22,6,32,0,0.007,0.037,0
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q24,11,26,1,0.013,0.03,0.001
+Grade-VII,Tamil,Science,classify materials and organisms based on properties or characteristics,Q25,11,26,1,0.013,0.03,0.001
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q26,16,21,1,0.018,0.024,0.001
+Grade-VII,Tamil,Science,classify materials and organisms based on properties or characteristics,Q27,12,25,1,0.014,0.029,0.001
+Grade-VII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q28,14,24,0,0.016,0.027,0
+Grade-VII,Tamil,Science,classify materials and organisms based on properties or characteristics,Q29,8,30,0,0.009,0.034,0
+Grade-VII,Tamil,Science,identify materials and organisms on the basis of observable features,Q30,11,26,1,0.013,0.03,0.001
+Grade-VII,English,Tamil,Applied the correct grammar rules - Tense,Q1,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Tamil,Applied the correct grammar rules - Tense,Q2,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q3,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Tamil,Applied the correct grammar rules - Preposition,Q4,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q5,4,8,0,0.0111,0.0222,0
+Grade-VII,English,Tamil,Applied the correct grammar rules - Conjunctions,Q6,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q7,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q8,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q9,5,7,0,0.0139,0.0194,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q10,5,7,0,0.0139,0.0194,0
+Grade-VII,English,Tamil,Applied the correct grammar rules - Tense,Q11,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q12,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q13,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q14,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Tamil,Applied the correct grammar rules,Q15,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q16,4,8,0,0.0111,0.0222,0
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q17,6,5,1,0.0167,0.0139,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q18,6,5,1,0.0167,0.0139,0.0028
+Grade-VII,English,Tamil,Discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q19,5,6,1,0.0139,0.0167,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q20,7,4,1,0.0194,0.0111,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q21,4,7,1,0.0111,0.0194,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q22,5,6,1,0.0139,0.0167,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q23,9,2,1,0.025,0.0056,0.0028
+Grade-VII,English,Tamil,Identify the main characters or the major plot from the text given,Q24,4,7,1,0.0111,0.0194,0.0028
+Grade-VII,English,Tamil,Identify the main characters or the major plot from the text given,Q25,8,3,1,0.0222,0.0083,0.0028
+Grade-VII,English,Tamil,Identify the main characters or the major plot from the text given,Q26,8,3,1,0.0222,0.0083,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q27,8,3,1,0.0222,0.0083,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q28,8,3,1,0.0222,0.0083,0.0028
+Grade-VII,English,Tamil,Discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q29,5,6,1,0.0139,0.0167,0.0028
+Grade-VII,English,Tamil,Identifies the main ideas and the sequence of ideas of the given text,Q30,8,3,1,0.0222,0.0083,0.0028
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q1,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q2,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q3,5,7,0,0.0139,0.0194,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q4,10,2,0,0.0278,0.0056,0
+Grade-VII,English,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q5,5,7,0,0.0139,0.0194,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q6,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q7,8,4,0,0.0222,0.0111,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q8,6,6,0,0.0167,0.0167,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q9,5,7,0,0.0139,0.0194,0
+Grade-VII,English,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q10,6,6,0,0.0167,0.0167,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q11,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identify the main characters from the text given,Q12,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q13,9,3,0,0.025,0.0083,0
+Grade-VII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q14,5,7,0,0.0139,0.0194,0
+Grade-VII,English,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q15,5,7,0,0.0139,0.0194,0
+Grade-VII,English,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q16,4,8,0,0.0111,0.0222,0
+Grade-VII,English,English,identify the main characters from the text given,Q17,4,8,0,0.0111,0.0222,0
+Grade-VII,English,English,Applied the correct grammar rules - Adjective,Q18,3,9,0,0.0083,0.025,0
+Grade-VII,English,English,Applied the correct grammar rules - Tense,Q19,6,6,0,0.0167,0.0167,0
+Grade-VII,English,English,Applied the correct grammar rules - Punctuations,Q20,1,11,0,0.0028,0.0306,0
+Grade-VII,English,English,Applied the correct grammar rules - Noun and Pronoun,Q21,6,5,0,0.0167,0.0139,0
+Grade-VII,English,English,Applied the correct grammar rules - Noun and Pronoun,Q22,3,8,0,0.0083,0.0222,0
+Grade-VII,English,English,Applied the correct grammar rules,Q23,8,3,0,0.0222,0.0083,0
+Grade-VII,English,English,Applied the correct grammar rules - Verb and Adverb,Q24,5,6,0,0.0139,0.0167,0
+Grade-VII,English,English,Applied the correct grammar rules,Q25,5,6,0,0.0139,0.0167,0
+Grade-VII,English,English,Applied the correct grammar rules,Q26,4,7,0,0.0111,0.0194,0
+Grade-VII,English,English,Applied the correct grammar rules,Q27,2,9,0,0.0056,0.025,0
+Grade-VII,English,English,Applied the correct grammar rules,Q28,6,5,0,0.0167,0.0139,0
+Grade-VII,English,English,Applied the correct grammar rules - Noun and Pronoun,Q29,9,2,0,0.025,0.0056,0
+Grade-VII,English,English,Applied the correct grammar rules - Tense,Q30,3,8,0,0.0083,0.0222,0
+Grade-VII,English,Math,Performs division on fractions and decimals,Q5,6,6,0,0.0167,0.0167,0
+Grade-VII,English,Math,Performs division on fractions and decimals,Q6,3,9,0,0.0083,0.025,0
+Grade-VII,English,Math,"Find mean, median and mode in the given data set",Q9,9,3,0,0.025,0.0083,0
+Grade-VII,English,Math,"Find mean, median and mode in the given data set",Q10,4,8,0,0.0111,0.0222,0
+Grade-VII,English,Math,"Find mean, median and mode in the given data set",Q11,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Math,"Find mean, median and mode in the given data set",Q13,0,12,0,0,0.0333,0
+Grade-VII,English,Math,Apply the knowledge of profit and loss and simple interest problems,Q14,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Math,Apply the knowledge of profit and loss and simple interest problems,Q15,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q16,6,6,0,0.0167,0.0167,0
+Grade-VII,English,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q17,9,3,0,0.025,0.0083,0
+Grade-VII,English,Math,Applies angle sum property of a triangle to find unknown angles in a triangle,Q18,5,7,0,0.0139,0.0194,0
+Grade-VII,English,Math,Interpret data from the given table,Q26,9,3,0,0.025,0.0083,0
+Grade-VII,English,Math,Interpret data from the given table,Q27,10,2,0,0.0278,0.0056,0
+Grade-VII,English,Math,Interpret data from the given table,Q28,8,4,0,0.0222,0.0111,0
+Grade-VII,English,Math,Interpret data from the given table,Q29,7,5,0,0.0194,0.0139,0
+Grade-VII,English,Math,Interpret data from the given table,Q30,5,7,0,0.0139,0.0194,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q3,10,2,0,0.036231884,0.007246377,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q4,2,10,0,0.007246377,0.036231884,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q5,2,10,0,0.007246377,0.036231884,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q6,1,11,0,0.003623188,0.039855072,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q7,1,11,0,0.003623188,0.039855072,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q9,4,8,0,0.014492754,0.028985507,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q11,9,3,0,0.032608696,0.010869565,0
+Grade-VII,English,Science,apply learning of scientific concepts in day to day life,Q13,5,7,0,0.018115942,0.025362319,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q15,1,11,0,0.003623188,0.039855072,0
+Grade-VII,English,Science,classify materials and organisms based on properties or characteristics,Q16,3,9,0,0.010869565,0.032608696,0
+Grade-VII,English,Science,relate processes and phenomena with causes,Q17,4,8,0,0.014492754,0.028985507,0
+Grade-VII,English,Science,apply learning of scientific concepts in day to day life,Q18,4,8,0,0.014492754,0.028985507,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q19,4,8,0,0.014492754,0.028985507,0
+Grade-VII,English,Science,apply learning of scientific concepts in day to day life,Q20,2,10,0,0.007246377,0.036231884,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q21,5,7,0,0.018115942,0.025362319,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q22,2,10,0,0.007246377,0.036231884,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q24,9,3,0,0.032608696,0.010869565,0
+Grade-VII,English,Science,classify materials and organisms based on properties or characteristics,Q25,0,12,0,0,0.043478261,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q26,5,7,0,0.018115942,0.025362319,0
+Grade-VII,English,Science,classify materials and organisms based on properties or characteristics,Q27,6,6,0,0.02173913,0.02173913,0
+Grade-VII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q28,8,4,0,0.028985507,0.014492754,0
+Grade-VII,English,Science,classify materials and organisms based on properties or characteristics,Q29,4,8,0,0.014492754,0.028985507,0
+Grade-VII,English,Science,identify materials and organisms on the basis of observable features,Q30,2,10,0,0.007246377,0.036231884,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q1,34,3,0,0.031,0.003,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q2,37,0,0,0.033,0,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q3,17,20,0,0.015,0.018,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q4,26,11,0,0.023,0.01,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q5,16,20,1,0.014,0.018,0.001
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q6,27,9,1,0.024,0.008,0.001
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q7,31,5,1,0.028,0.005,0.001
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q8,15,21,1,0.014,0.019,0.001
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q9,34,3,0,0.031,0.003,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q10,13,21,3,0.012,0.019,0.003
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q11,37,0,0,0.033,0,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q12,34,3,0,0.031,0.003,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q13,29,8,0,0.026,0.007,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q14,26,11,0,0.023,0.01,0
+Grade-VIII,Tamil,Tamil,applied the correct grammar rules,Q15,34,3,0,0.031,0.003,0
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q16,35,2,0,0.032,0.002,0
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q17,36,1,0,0.032,0.001,0
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q18,32,3,2,0.029,0.003,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q19,31,3,3,0.028,0.003,0.003
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q20,32,2,3,0.029,0.002,0.003
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q21,23,12,2,0.021,0.011,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q22,34,1,2,0.031,0.001,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q23,31,4,2,0.028,0.004,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q24,31,4,2,0.028,0.004,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q25,27,7,3,0.024,0.006,0.003
+Grade-VIII,Tamil,Tamil,identify the main characters from the text given,Q26,30,6,0,0.027,0.005,0
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q27,29,6,2,0.026,0.005,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q28,30,6,1,0.027,0.005,0.001
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q29,26,9,2,0.023,0.008,0.002
+Grade-VIII,Tamil,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q30,32,4,1,0.029,0.004,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q1,20,16,1,0.018,0.014,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q2,5,31,1,0.005,0.028,0.001
+Grade-VIII,Tamil,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q3,6,28,3,0.005,0.025,0.003
+Grade-VIII,Tamil,English,applied the correct grammar rules- verb and adverb,Q4,5,31,1,0.005,0.028,0.001
+Grade-VIII,Tamil,English,applied the correct grammar rules- verb and adverb,Q5,12,24,1,0.011,0.022,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q6,10,25,2,0.009,0.023,0.002
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q7,12,24,1,0.011,0.022,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q8,13,23,1,0.012,0.021,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q9,12,23,2,0.011,0.021,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules- tense,Q10,13,20,4,0.012,0.018,0.004
+Grade-VIII,Tamil,English,identify the main characters from the text given,Q11,12,24,1,0.011,0.022,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q12,10,26,1,0.009,0.023,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q13,10,26,1,0.009,0.023,0.001
+Grade-VIII,Tamil,English,identifies the main ideas and the sequence of ideas of the given text,Q14,10,25,2,0.009,0.023,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules- rhyming words,Q15,6,30,1,0.005,0.027,0.001
+Grade-VIII,Tamil,English,applied the correct grammar rules- tenses,Q16,13,21,3,0.012,0.019,0.003
+Grade-VIII,Tamil,English,applied the correct grammar rules- tenses,Q17,10,21,6,0.009,0.019,0.005
+Grade-VIII,Tamil,English,applied the correct grammar rules- tenses,Q18,10,24,3,0.009,0.022,0.003
+Grade-VIII,Tamil,English,applied the correct grammar rules- tenses,Q19,6,27,4,0.005,0.024,0.004
+Grade-VIII,Tamil,English,applied the correct grammar rules- tenses,Q20,10,24,3,0.009,0.022,0.003
+Grade-VIII,Tamil,English,applied the correct grammar rules- Punctuations,Q21,7,26,4,0.006,0.023,0.004
+Grade-VIII,Tamil,English,applied the correct grammar rules,Q22,12,20,5,0.011,0.018,0.005
+Grade-VIII,Tamil,English,applied the correct grammar rules,Q23,6,26,5,0.005,0.023,0.005
+Grade-VIII,Tamil,English,applied the correct grammar rules - preposition,Q24,11,24,2,0.01,0.022,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules - preposition,Q25,7,28,2,0.006,0.025,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules - preposition,Q26,4,31,2,0.004,0.028,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules - active and passive voice,Q27,5,29,3,0.005,0.026,0.003
+Grade-VIII,Tamil,English,applied the correct grammar rules - active and passive voice,Q28,8,27,2,0.007,0.024,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules - question tags,Q29,7,28,2,0.006,0.025,0.002
+Grade-VIII,Tamil,English,applied the correct grammar rules - question tags,Q30,6,29,2,0.005,0.026,0.002
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q1,4,30,2,0.004,0.028,0.002
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q2,17,18,1,0.016,0.017,0.001
+Grade-VIII,Tamil,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q3,16,20,0,0.015,0.019,0
+Grade-VIII,Tamil,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q4,27,8,1,0.025,0.007,0.001
+Grade-VIII,Tamil,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q5,23,12,1,0.021,0.011,0.001
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q6,7,29,0,0.006,0.027,0
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q7,12,24,0,0.011,0.022,0
+Grade-VIII,Tamil,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q8,22,14,0,0.02,0.013,0
+Grade-VIII,Tamil,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q9,21,15,0,0.019,0.014,0
+Grade-VIII,Tamil,Math,Solves problems based on direct and inverse proportions,Q10,23,10,3,0.021,0.009,0.003
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q11,16,20,0,0.015,0.019,0
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q12,10,25,1,0.009,0.023,0.001
+Grade-VIII,Tamil,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q13,10,24,2,0.009,0.022,0.002
+Grade-VIII,Tamil,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q14,13,22,1,0.012,0.02,0.001
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q15,17,16,3,0.016,0.015,0.003
+Grade-VIII,Tamil,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q16,16,20,0,0.015,0.019,0
+Grade-VIII,Tamil,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q17,11,23,2,0.01,0.021,0.002
+Grade-VIII,Tamil,Math,"Using algebraic methods proves divisibility rules of 2, 3,4, 5, 6,9 and 11 and solves puzzles/daily life problems.",Q18,18,16,2,0.017,0.015,0.002
+Grade-VIII,Tamil,Math,Finds rational numbers between two given rational numbers.,Q19,22,14,0,0.02,0.013,0
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q20,3,31,1,0.003,0.029,0.001
+Grade-VIII,Tamil,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q21,6,28,2,0.006,0.026,0.002
+Grade-VIII,Tamil,Math,"Using algebraic methods proves divisibility rules of 2, 3,4, 5, 6,9 and 11 and solves puzzles/daily life problems.",Q22,9,24,2,0.008,0.022,0.002
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q23,6,29,1,0.006,0.027,0.001
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q24,2,33,1,0.002,0.031,0.001
+Grade-VIII,Tamil,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q25,12,21,3,0.011,0.019,0.003
+Grade-VIII,Tamil,Math,Finds rational numbers between two given rational numbers.,Q26,7,25,4,0.006,0.023,0.004
+Grade-VIII,Tamil,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q27,5,30,1,0.005,0.028,0.001
+Grade-VIII,Tamil,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q28,3,30,3,0.003,0.028,0.003
+Grade-VIII,Tamil,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q29,15,19,2,0.014,0.018,0.002
+Grade-VIII,Tamil,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q30,8,24,4,0.007,0.022,0.004
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q1,14,21,2,0.013,0.02,0.002
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q2,15,22,0,0.014,0.021,0
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q3,24,13,0,0.022,0.012,0
+Grade-VIII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q4,9,27,1,0.008,0.025,0.001
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q5,18,19,0,0.017,0.018,0
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q6,7,29,1,0.007,0.027,0.001
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q7,10,25,2,0.009,0.023,0.002
+Grade-VIII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q8,11,22,2,0.01,0.021,0.002
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q9,14,22,1,0.013,0.021,0.001
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q10,12,25,0,0.011,0.023,0
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q11,11,25,1,0.01,0.023,0.001
+Grade-VIII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q13,19,15,3,0.018,0.014,0.003
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q14,8,28,1,0.007,0.026,0.001
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q15,4,31,2,0.004,0.029,0.002
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q16,16,21,0,0.015,0.02,0
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q17,14,22,1,0.013,0.021,0.001
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q18,11,23,3,0.01,0.021,0.003
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q19,23,13,1,0.021,0.012,0.001
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q20,15,21,1,0.014,0.02,0.001
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q21,17,18,2,0.016,0.017,0.002
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q22,14,21,2,0.013,0.02,0.002
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q23,13,20,3,0.012,0.019,0.003
+Grade-VIII,Tamil,Science,apply learning of scientific concepts in day to day life,Q24,21,15,1,0.02,0.014,0.001
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q25,25,10,2,0.023,0.009,0.002
+Grade-VIII,Tamil,Science,differentiate materials and organisms on the basis of their properties structure and function,Q26,16,19,2,0.015,0.018,0.002
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q27,12,21,4,0.011,0.02,0.004
+Grade-VIII,Tamil,Science,classify materials and organisms based on properties or characteristics,Q28,28,7,2,0.026,0.007,0.002
+Grade-VIII,Tamil,Science,identify materials and organisms on the basis of observable features,Q29,5,29,3,0.005,0.027,0.003
+Grade-VIII,Tamil,Science,relate processes and phenomena with causes,Q30,12,23,2,0.011,0.021,0.002
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q1,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q2,12,0,0,0.036,0,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q3,7,5,0,0.021,0.015,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q4,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q5,7,5,0,0.021,0.015,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q6,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q7,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q8,5,7,0,0.015,0.021,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q9,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q10,2,10,0,0.006,0.03,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q11,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q12,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q13,8,4,0,0.024,0.012,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q14,3,9,0,0.009,0.027,0
+Grade-VIII,English,Tamil,applied the correct grammar rules,Q15,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q16,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q17,12,0,0,0.036,0,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q18,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q19,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q20,9,3,0,0.027,0.009,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q21,7,5,0,0.021,0.015,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q22,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q23,9,3,0,0.027,0.009,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q24,8,4,0,0.024,0.012,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q25,11,1,0,0.033,0.003,0
+Grade-VIII,English,Tamil,identify the main characters from the text given,Q26,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q27,7,5,0,0.021,0.015,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q28,10,2,0,0.03,0.006,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q29,7,5,0,0.021,0.015,0
+Grade-VIII,English,Tamil,identifies the main ideas and the sequence of ideas of the given text,Q30,9,3,0,0.027,0.009,0
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q1,11,1,0,0.031,0.003,0.003
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q2,0,12,0,0,0.033,0.033
+Grade-VIII,English,English,discover the meaning of the word by relating to the surrounding text for synonyms and antonyms,Q3,5,7,0,0.014,0.019,0.019
+Grade-VIII,English,English,applied the correct grammar rules- verb and adverb,Q4,6,6,0,0.017,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules- verb and adverb,Q5,4,8,0,0.011,0.022,0.022
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q6,10,2,0,0.028,0.006,0.006
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q7,9,3,0,0.025,0.008,0.008
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q8,5,7,0,0.014,0.019,0.019
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q9,4,8,0,0.011,0.022,0.022
+Grade-VIII,English,English,applied the correct grammar rules- tense,Q10,7,5,0,0.019,0.014,0.014
+Grade-VIII,English,English,identify the main characters from the text given,Q11,7,5,0,0.019,0.014,0.014
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q12,8,4,0,0.022,0.011,0.011
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q13,5,7,0,0.014,0.019,0.019
+Grade-VIII,English,English,identifies the main ideas and the sequence of ideas of the given text,Q14,9,3,0,0.025,0.008,0.008
+Grade-VIII,English,English,applied the correct grammar rules- rhyming words,Q15,5,6,1,0.014,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules- tenses,Q16,9,2,1,0.025,0.006,0.006
+Grade-VIII,English,English,applied the correct grammar rules- tenses,Q17,0,11,1,0,0.031,0.031
+Grade-VIII,English,English,applied the correct grammar rules- tenses,Q18,7,4,1,0.019,0.011,0.011
+Grade-VIII,English,English,applied the correct grammar rules- tenses,Q19,5,6,1,0.014,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules- tenses,Q20,3,8,1,0.008,0.022,0.022
+Grade-VIII,English,English,applied the correct grammar rules- Punctuations,Q21,5,6,1,0.014,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules,Q22,5,6,1,0.014,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules,Q23,8,4,0,0.022,0.011,0.011
+Grade-VIII,English,English,applied the correct grammar rules - preposition,Q24,5,7,0,0.014,0.019,0.019
+Grade-VIII,English,English,applied the correct grammar rules - preposition,Q25,6,6,0,0.017,0.017,0.017
+Grade-VIII,English,English,applied the correct grammar rules - preposition,Q26,5,7,0,0.014,0.019,0.019
+Grade-VIII,English,English,applied the correct grammar rules - active and passive voice,Q27,1,11,0,0.003,0.031,0.031
+Grade-VIII,English,English,applied the correct grammar rules - active and passive voice,Q28,2,10,0,0.006,0.028,0.028
+Grade-VIII,English,English,applied the correct grammar rules - question tags,Q29,7,5,0,0.019,0.014,0.014
+Grade-VIII,English,English,applied the correct grammar rules - question tags,Q30,4,8,0,0.011,0.022,0.022
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q1,6,6,0,0.017,0.017,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q2,7,5,0,0.019,0.014,0
+Grade-VIII,English,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q3,6,6,0,0.017,0.017,0
+Grade-VIII,English,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q4,8,4,0,0.022,0.011,0
+Grade-VIII,English,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q5,9,3,0,0.025,0.008,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q6,2,10,0,0.006,0.028,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q7,7,5,0,0.019,0.014,0
+Grade-VIII,English,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q8,4,8,0,0.011,0.022,0
+Grade-VIII,English,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q9,6,6,0,0.017,0.017,0
+Grade-VIII,English,Math,Solves problems based on direct and inverse proportions,Q10,9,3,0,0.025,0.008,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q11,8,4,0,0.022,0.011,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q12,5,7,0,0.014,0.019,0
+Grade-VIII,English,Math,Verifies properties of parallelograms and establishes the relati inonship between them through reasoning.,Q13,1,11,0,0.003,0.031,0
+Grade-VIII,English,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q14,4,8,0,0.011,0.022,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q15,5,7,0,0.014,0.019,0
+Grade-VIII,English,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q16,6,6,0,0.017,0.017,0
+Grade-VIII,English,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q17,3,9,0,0.008,0.025,0
+Grade-VIII,English,Math,"Using algebraic methods proves divisibility rules of 2, 3,4, 5, 6,9 and 11 and solves puzzles/daily life problems.",Q18,5,7,0,0.014,0.019,0
+Grade-VIII,English,Math,Finds rational numbers between two given rational numbers.,Q19,3,9,0,0.008,0.025,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q20,3,8,1,0.008,0.022,0.003
+Grade-VIII,English,Math,Solves problems related to angles of a quadrilateral using angle sum property,Q21,3,9,0,0.008,0.025,0
+Grade-VIII,English,Math,"Using algebraic methods proves divisibility rules of 2, 3,4, 5, 6,9 and 11 and solves puzzles/daily life problems.",Q22,6,6,0,0.017,0.017,0
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q23,1,10,1,0.003,0.028,0.003
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q24,0,12,0,0,0.033,0
+Grade-VIII,English,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q25,3,9,0,0.008,0.025,0
+Grade-VIII,English,Math,Finds rational numbers between two given rational numbers.,Q26,4,8,0,0.011,0.022,0
+Grade-VIII,English,Math,"Applies the concept of percent in profit/loss, discount, VAT and compound interest.",Q27,1,11,0,0.003,0.031,0
+Grade-VIII,English,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q28,2,10,0,0.006,0.028,0
+Grade-VIII,English,Math,"Finds squares, cubes, square roots and cube roots of numbers using different methods.",Q29,1,10,1,0.003,0.028,0.003
+Grade-VIII,English,Math,"Generalises properties of addition, subtraction, multiplication and division of rational numbers through patterns.",Q30,5,7,0,0.014,0.019,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q1,5,7,0,0.014,0.02,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q2,0,12,0,0,0.034,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q3,3,9,0,0.009,0.026,0
+Grade-VIII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q4,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q5,6,6,0,0.017,0.017,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q6,8,4,0,0.023,0.011,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q7,6,5,0,0.017,0.014,0
+Grade-VIII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q8,5,7,0,0.014,0.02,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q9,6,6,0,0.017,0.017,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q10,3,9,0,0.009,0.026,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q11,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q13,7,5,0,0.02,0.014,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q14,7,5,0,0.02,0.014,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q15,5,7,0,0.014,0.02,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q16,5,7,0,0.014,0.02,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q17,6,6,0,0.017,0.017,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q18,5,7,0,0.014,0.02,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q19,8,4,0,0.023,0.011,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q20,7,5,0,0.02,0.014,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q21,7,5,0,0.02,0.014,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q22,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q23,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,apply learning of scientific concepts in day to day life,Q24,6,6,0,0.017,0.017,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q25,6,6,0,0.017,0.017,0
+Grade-VIII,English,Science,differentiate materials and organisms on the basis of their properties structure and function,Q26,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q27,3,9,0,0.009,0.026,0
+Grade-VIII,English,Science,classify materials and organisms based on properties or characteristics,Q28,4,8,0,0.011,0.023,0
+Grade-VIII,English,Science,identify materials and organisms on the basis of observable features,Q29,0,12,0,0,0.034,0
+Grade-VIII,English,Science,relate processes and phenomena with causes,Q30,4,8,0,0.011,0.023,0
